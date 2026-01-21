@@ -3,7 +3,7 @@
 ### 🚀 Web Developer & Graphic designer
 Based in Morocco 🇲🇦
 
-I am a specialized **WordPress/WooCommerce Developer** and **Graphic designer** with a passion for building scalable e-commerce solutions. Simultaneously.
+I am a specialized **WordPress/WooCommerce Developer** with a passion for building scalable e-commerce solutions. Simultaneously.
 
 - 🔭 **I’m currently working on**: [Updulla.me](https://updulla.me) and building LMS platforms like Ajjig Academy.
 - 🌱 **I’m currently learning**: Advanced Food Microbiology and integrating AI with Next.js.
